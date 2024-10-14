@@ -32,4 +32,3 @@ Check out the [Docs](https://karpenter.sh/) to learn more.
 
 ## Auto Test Commit
 - Commit 1
-
